@@ -13,12 +13,12 @@ private:
 
 MyClass::MyClass()
 {
-	cout << "\n Constructor ";
+	cout << "\n This is constructor ";
 }
 
 MyClass::~MyClass()
 {
-	cout << "\n Destructor ";
+	cout << "\n This is Destructor ";
 }
 void main()
 {

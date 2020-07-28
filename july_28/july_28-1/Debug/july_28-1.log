@@ -1,3 +1,4 @@
 ﻿  demo.cpp
 d:\cpp\july_28\july_28-1\demo.cpp(24): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LINK : D:\cpp\july_28\Debug\july_28-1.exe not found or not built by the last incremental link; performing full link
   july_28-1.vcxproj -> D:\cpp\july_28\Debug\july_28-1.exe
