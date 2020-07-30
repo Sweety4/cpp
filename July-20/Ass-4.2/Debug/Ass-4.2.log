@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Ass-4.2.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Ass-4.2.vcxproj -> c:\Users\HP\source\repos\July-20\Debug\July 20.2.exe

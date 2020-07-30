@@ -1,0 +1,6 @@
+﻿  Box.cpp
+c:\users\hp\source\repos\july-20\ass-4.2\box.h(11): error C2805: binary 'operator >' has too few parameters
+c:\users\hp\source\repos\july-20\ass-4.2\box.cpp(30): error C2059: syntax error: '>'
+  main.cpp
+c:\users\hp\source\repos\july-20\ass-4.2\box.h(11): error C2805: binary 'operator >' has too few parameters
+c:\users\hp\source\repos\july-20\ass-4.2\main.cpp(7): error C2676: binary '>': 'Box' does not define this operator or a conversion to a type acceptable to the predefined operator
