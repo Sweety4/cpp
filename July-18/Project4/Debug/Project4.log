@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Ass_3.1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Book.cpp
+  main.cpp
+c:\users\hp\source\repos\project4\project4\main.cpp(16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Project4.vcxproj -> C:\Users\HP\source\repos\Project4\Debug\July-18-3.1.exe
