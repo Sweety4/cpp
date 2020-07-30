@@ -1,0 +1,5 @@
+﻿  Employee.cpp
+  main.cpp
+c:\users\hp\source\repos\july-21\july-21\main.cpp(3): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  July-21.vcxproj -> C:\Users\HP\source\repos\July-21\Debug\July-21-1.exe
