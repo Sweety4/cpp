@@ -1,0 +1,5 @@
+﻿  main.cpp
+c:\users\hp\source\repos\july-16\assig-2-day2\main.cpp(9): warning C4305: 'argument': truncation from 'double' to 'float'
+  Student.cpp
+  Generating Code...
+  Assig-2-day2.vcxproj -> C:\Users\HP\source\repos\July-16\Debug\Assig-2-day2.exe
