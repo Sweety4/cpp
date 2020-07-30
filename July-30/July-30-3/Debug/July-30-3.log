@@ -1,0 +1,3 @@
+﻿  Interchange.cpp
+d:\cpp\july-30\july-30-3\interchange.cpp(33): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  July-30-3.vcxproj -> D:\cpp\July-30\Debug\July-30-3.exe

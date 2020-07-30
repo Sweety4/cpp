@@ -1,0 +1,8 @@
+﻿  Template.cpp
+d:\cpp\july-30\july-30-4\template.cpp(24): warning C4101: 'temp': unreferenced local variable
+  d:\cpp\july-30\july-30-4\template.cpp(66): note: see reference to function template instantiation 'int Search<char>(T [],int,T)' being compiled
+          with
+          [
+              T=char
+          ]
+  July-30-4.vcxproj -> D:\cpp\July-30\Debug\July-30-4.exe
