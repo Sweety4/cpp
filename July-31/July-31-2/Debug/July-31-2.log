@@ -1,0 +1,5 @@
+﻿  Search.cpp
+d:\cpp\july-31\july-31-2\search.cpp(21): warning C4101: 'n': unreferenced local variable
+d:\cpp\july-31\july-31-2\search.cpp(36): warning C4101: 'n': unreferenced local variable
+d:\cpp\july-31\july-31-2\search.cpp(42): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  July-31-2.vcxproj -> D:\cpp\July-31\Debug\July-31-2.exe
