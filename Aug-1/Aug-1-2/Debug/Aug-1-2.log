@@ -1,0 +1,4 @@
+﻿  main.cpp
+d:\cpp\aug-1\aug-1-2\main.cpp(3): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  LINK : D:\cpp\Aug-1\Debug\Aug-1-2.exe not found or not built by the last incremental link; performing full link
+  Aug-1-2.vcxproj -> D:\cpp\Aug-1\Debug\Aug-1-2.exe

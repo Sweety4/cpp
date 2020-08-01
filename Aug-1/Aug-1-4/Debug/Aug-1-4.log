@@ -1,0 +1,8 @@
+﻿  main.cpp
+d:\cpp\aug-1\aug-1-4\main.cpp(3): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Record.cpp
+d:\cpp\aug-1\aug-1-4\record.cpp(4): warning C4129: ' ': unrecognized character escape sequence
+d:\cpp\aug-1\aug-1-4\record.cpp(14): warning C4244: '=': conversion from 'std::streamoff' to 'int', possible loss of data
+d:\cpp\aug-1\aug-1-4\record.cpp(44): warning C4101: 'pos': unreferenced local variable
+  Generating Code...
+  Aug-1-4.vcxproj -> D:\cpp\Aug-1\Debug\Aug-1-4.exe
